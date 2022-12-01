@@ -1,2 +1,4 @@
-<?php
-echo '<h1>Hello laravel dev </h1>';
+@extends('layout')
+@section('content')
+    <h3>New from hello view</h3>
+@stop
